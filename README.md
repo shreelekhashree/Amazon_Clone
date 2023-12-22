@@ -14,5 +14,5 @@ This repository contains the source code for an Amazon clone built using HTML an
 We welcome contributions! Feel free to fork the repository, make improvements, and submit pull requests.
 
 ## Technologies Used:
-HTML
-CSS
+* HTML
+* CSS
